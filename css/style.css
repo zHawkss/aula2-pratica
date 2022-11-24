@@ -1,0 +1,35 @@
+
+
+div p > em  {
+ 
+color: rgb(255, 0, 0); 
+
+}
+
+
+p ~ p > em { 
+
+color:  blue;
+}
+
+
+#principal h1 {
+
+color: blue;
+
+}
+
+
+article > h1 {
+
+    color: green !important;
+    
+
+
+}
+
+article > p {
+
+    color: blue;
+
+}
